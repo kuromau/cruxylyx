@@ -1,0 +1,29 @@
+{
+  "name": "cruxylyx",
+  "version": "1.0",
+  "description": "trying my hardest here",
+  "color": "#699861",
+  "authors": [
+    {
+      "name": "Noe",
+      "id": "262644614815547393"
+    }
+  ],
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/1241602951659786323/1245098104923881494/noehalfbodymarch2024.png?ex=66578379&is=665631f9&hm=48ca778320df24cc3037a0a457fff601a6e3f290758a291a8a9f87fd6d0b7409&",
+    "alpha": 0.69
+  },
+  "theme_color_map": {
+    "BACKGROUND_PRIMARY": ["#699861", "#699861"],
+                        //Dark Mode , //Light Mode
+    "BACKGROUND_SECONDARY": ["rgba(0, 0, 0, 1)", "rgba(255, 255, 255, 1)"],
+  },
+  "colours": {
+    "PRIMARY_DARK": "#0F0FFF",
+    "BRAND_NEW": "transparent",
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  }
+}
